@@ -54,11 +54,3 @@ For detailed setup, see `SETUP_AGENT_JSON.md`.
 - **Technical Details:** `TECHNICAL_AGENT_JSON.md`
 
 ---
-
-## 🤝 Contributing
-Pull requests and suggestions are welcome! Feel free to fork and adapt for your own use cases.
-
----
-
-## 📄 License
-This project is provided as-is for educational and prototyping purposes. Please review third-party service terms for production use. 
